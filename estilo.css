@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+}
+
+input, textarea {
+    margin: 5px;
+}
